@@ -1,0 +1,13 @@
+Name: cross-armv7l-platformfile
+Summary: Install armv7l /etc/rpm/platform file
+Version: 0.0.1
+Release: 1
+BuildArch: noarch
+Group: Development/Tools
+License: GPLv2
+Description: Package to make rpm-x86 understand the build chroot is for armv7l
+
+Configure: none
+Builder: none
+Files:
+    - "/etc/rpm/platform"
