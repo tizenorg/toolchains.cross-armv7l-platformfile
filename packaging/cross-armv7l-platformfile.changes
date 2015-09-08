@@ -1,0 +1,6 @@
+* Sat Jan 22 20:50:00 UTC 2011 Carsten Munk <carsten@maemo.org> - 1.0
+- Initial import to MeeGo. This package consists of /etc/rpm/platform
+  in order to make rpm-x86/force it to realize it's within a armv7l chroot.
+  Fixes BMC#13167 (rpm-x86 will think it's under i586 in a armv7hl hardfp scheduler)
+
+
