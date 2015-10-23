@@ -9,6 +9,7 @@ Name:       cross-armv7l-platformfile
 Summary:    Install armv7l /etc/rpm/platform file
 Version:    0.0.1
 Release:    1
+VCS:        toolchains/cross-armv7l-platformfile#submit/trunk/20121024.110203-0-g4ad081f97593753148818b13e4fdd8eadf3c42b1
 Group:      Development/Tools
 License:    GPLv2
 Source100:  cross-armv7l-platformfile.yaml

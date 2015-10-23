@@ -1,3 +1,32 @@
+* Mon Sep 16 2013 UkJung Kim <ujkim@samsung.com> - submit/trunk/20121024.110203 
+- PROJECT: toolchains/cross-armv7l-platformfile
+- COMMIT_ID: 4ad081f97593753148818b13e4fdd8eadf3c42b1
+- PATCHSET_REVISION: 4ad081f97593753148818b13e4fdd8eadf3c42b1
+- CHANGE_OWNER: \"UkJung Kim\" <ujkim@samsung.com>
+- PATCHSET_UPLOADER: \"UkJung Kim\" <ujkim@samsung.com>
+- CHANGE_URL: http://slp-info.sec.samsung.net/gerrit/105087
+- PATCHSET_REVISION: 4ad081f97593753148818b13e4fdd8eadf3c42b1
+- TAGGER: UkJung Kim <ujkim@samsung.com>
+- Gerrit patchset approval info:
+- UkJung Kim <ujkim@samsung.com> Verified : 1
+- Newton Lee <newton.lee@samsung.com> Code Review : 2
+- CHANGE_SUBJECT: Initial commit
+
+- [Version] 0.0.1
+- [Project] GT-I8800
+- [Title] Git OBS Sync
+- [BinType] PDA
+- [Customer] Open
+- [Issue#] N/A
+- [Problem] N/A
+- [Cause] N/A
+- [Solution]
+- [Team] SCM
+- [Developer] UkJung Kim <ujkim@samsung.com>
+- [Request] N/A
+- [Horizontal expansion] N/A
+- [SCMRequest] N/A
+
 * Sat Jan 22 20:50:00 UTC 2011 Carsten Munk <carsten@maemo.org> - 1.0
 - Initial import to MeeGo. This package consists of /etc/rpm/platform
   in order to make rpm-x86/force it to realize it's within a armv7l chroot.
